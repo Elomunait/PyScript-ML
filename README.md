@@ -39,7 +39,7 @@ Link JavaScript and Bootstrap stylesheets to build extensible components like bu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone (https://github.com/Elomunait/PyScript-ML
    ```
 
 2. Open `index.html` in your preferred web browser.
@@ -61,7 +61,7 @@ Link JavaScript and Bootstrap stylesheets to build extensible components like bu
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/Elomunait/PyScript-ML/LICENSE).
+This project is licensed under the [MIT License](https://github.com/Elomunait/PyScript-ML/blob/main/LICENSE).
 
 ## Acknowledgments
 
