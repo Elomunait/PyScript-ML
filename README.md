@@ -18,7 +18,7 @@ The project includes the following key components:
 
 - **HTML Document**: `index.html` - Contains the structure of the web page, including HTML elements, PyScript tags, and machine learning input forms.
 
-- **Python Script**: `your_python_script_file.py` - Includes Python code for data preprocessing, model training, and prediction.
+- **Python Script**: `helper.py` - Includes Python code for data preprocessing, model training, and prediction.
 
 ## Core Components of PyScript
 
